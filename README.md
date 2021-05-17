@@ -18,7 +18,7 @@
 
 ----
 
-## Who I am? 🙋🏻‍♂️
+## Who am I? 🙋🏻‍♂️
 Hi, I'm Marvyn, a guy who likes to code and learn new things every day. I get new ideas every day, sometimes interesting and sometimes not, but so far they have led me to learn many new things and meet many people.
 
 ## Projects 💼
