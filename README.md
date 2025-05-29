@@ -5,16 +5,16 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marvynstar" alt="marvynstar" /></a> </p> -->
 
-- 🌱 I’m currently learning **React.js, Next.js**
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **JavaScript, CSS, Html, Python**
+- 💬 Ask me about **React.js, JavaScript, CSS, Html, Python**
 
-- 📫 How to reach me: [Telegram](t.me/MarvynSTAR)
+- 📫 How to reach me **t.me/MarvynSTAR**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/marvynstella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marvynstella" height="30" width="40" /></a>
 <a href="https://dev.to/marvynstar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="marvynstar" height="30" width="40" /></a>
+<a href="https://instagram.com/marvynstella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marvynstella" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
